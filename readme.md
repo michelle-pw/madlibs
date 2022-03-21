@@ -1,0 +1,1 @@
+This is a basic madlib project that I learned how to create. It takes multiple user inputs and places them into blanks in a short story prior to knowing what the story is about. The concepts that I used are the input() function, variables, the comment (#) function, strings, and the print() function.
